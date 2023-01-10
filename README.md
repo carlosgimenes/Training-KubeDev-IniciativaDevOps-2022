@@ -2,17 +2,17 @@
 
 ## Aula 1 - Seus primeiros passos no Universo DEVOPS + DOCKER
 
-### Ciclo DevoPS
+### Ciclo DEVOPS
 ![Ciclo DevOps](images/DevOpsCiclo.png)
 
 ### Virtualização
-![Diagrama Virtualização](images/DiagramaVirtualizacao.png)
+![Diagrama Virtualização](images/DockerDiagramaVirtualizacao.png)
 
 ### Conteinerização
-![Diagrama Conteinerização](images/DiagramaConteinerizacao.png)
+![Diagrama Conteinerização](images/DockerDiagramaConteinerizacao.png)
 
 ### Arquitetura do Docker
-![Arquitetura Docker](images/ArquiteturaDocker.png)
+![Arquitetura Docker](images/DockerArquitetura.png)
 
 ### Primeiros passos com Container
 
