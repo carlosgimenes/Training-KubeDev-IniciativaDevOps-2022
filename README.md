@@ -3,7 +3,7 @@
 ## Aula 1 - Seus primeiros passos no Universo DEVOPS + DOCKER
 
 ### Ciclo DevoPS
-![Ciclo DevOps](images/CicloDevOps.png)
+![Ciclo DevOps](images/DevOpsCiclo.png)
 
 ### Virtualização
 ![Diagrama Virtualização](images/DiagramaVirtualizacao.png)
